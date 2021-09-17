@@ -1,0 +1,42 @@
+
+body{
+    background-color: #CAB8FF;
+}
+.heading{
+    color:#C1FFD7;
+    text-align: center;
+    font-size: 3rem;
+   text-transform: uppercase;
+
+}
+.maindiv{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 12rem;
+  
+}
+
+.inc{
+    margin-right: 2rem;
+    border: none;
+    background-color: #B5DEFF;
+    width: 200px;
+    height: 50px;
+    color: #FCFFA6;
+    font-size: 2rem;
+}
+.dec{
+    margin-left: 2rem;
+    border: none;
+    background-color: #B5DEFF;
+    width: 200px;
+    height: 50px;
+    color: #FCFFA6;
+    font-size: 2rem;
+}
+
+.num{
+    font-size: 3.5rem;
+    color: #FCFFA6;
+}
